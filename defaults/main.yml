@@ -1,0 +1,4 @@
+---
+# defaults file for kafka-monitor
+kafka_monitor_state: reloaded
+zk_kafka_path: "localhost:2181"
